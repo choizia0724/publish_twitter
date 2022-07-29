@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe-sprint-react-twittler-intro/static/css/main.9531776f.css",
+    "main.js": "/fe-sprint-react-twittler-intro/static/js/main.dee58c65.js",
+    "index.html": "/fe-sprint-react-twittler-intro/index.html",
+    "main.9531776f.css.map": "/fe-sprint-react-twittler-intro/static/css/main.9531776f.css.map",
+    "main.dee58c65.js.map": "/fe-sprint-react-twittler-intro/static/js/main.dee58c65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9531776f.css",
+    "static/js/main.dee58c65.js"
+  ]
+}
